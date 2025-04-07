@@ -307,4 +307,4 @@
 	
 ## 🔥 El verdadero final
 
-![Gojo Git Mode](https://github.com/Mauricio-27/Mauricio-27/blob/main/2025-04-07%2013-12-59%20(online-video-cutter%20(1).gif))
+![Gojo Git Mode]("2025-04-07 13-12-59 (online-video-cutter (1).gif")
