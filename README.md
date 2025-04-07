@@ -305,8 +305,6 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+## 🔥 El verdadero final
+
+![Gojo Git Mode](https://github.com/Mauricio-27/Mauricio-27/blob/main/2025-04-07%2013-12-59%20(online-video-cutter%20(1).gif))
