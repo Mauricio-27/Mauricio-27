@@ -133,8 +133,6 @@
 </div>
 </details>
 
-</br></br>
-	
 ## 🔥 El verdadero final
 <div align="center">
   <img src="gojo1.gif" alt="Descripción" />
