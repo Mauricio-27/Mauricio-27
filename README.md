@@ -307,4 +307,4 @@
 	
 ## 🔥 El verdadero final
 
-![Gojo Git Mode]("2025-04-07 13-12-59 (online-video-cutter (1).gif")
+![Gojo Git Mode](2025-04-07 13-12-59 (online-video-cutter (1).gif)
