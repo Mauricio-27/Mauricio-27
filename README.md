@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Mauricio Huayna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Mauricio Huayna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr>
-<h3 align="center">Network Systems Administration Student | Microcomputer systems and networks </h3>
+<h3 align="center">Administración de Sistemas de Redes | Sistemas y redes de microcomputación </h3>
 <p align="center">
 <a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rodrigomauricio.huaynapassara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
